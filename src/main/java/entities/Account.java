@@ -3,7 +3,7 @@ package entities;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
-import Exceptions.EnoughException;
+import exceptions.EnoughException;
 import enumeration.OperationType;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

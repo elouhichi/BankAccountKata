@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 
 import static org.junit.Assert.assertEquals;
 
-import Exceptions.EnoughException;
+import exceptions.EnoughException;
 import entities.Account;
 import entities.History;
 import enumeration.OperationType;
