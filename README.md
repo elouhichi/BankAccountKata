@@ -2,7 +2,7 @@
 this project contains the implemention of these requirments :
 -  Deposit and Withdrawal
 -  Account statement (date, amount, balance)
--  Statement printing
+-  Statement printing            
       
 the methode used for this implemention is TDD (test driven development) 
 
